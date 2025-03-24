@@ -1,8 +1,0 @@
-/proyecto-web/
-│── index.html
-│── style.css
-│── images/
-│   └── ejemplo.jpg (puedes usar cualquier imagen)
-│── media/
-│   ├── video.mp4 (puedes usar un video corto de ejemplo)
-│   └── audio.mp3 (puedes usar un audio corto de ejemplo)
